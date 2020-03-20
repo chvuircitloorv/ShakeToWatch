@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShakeToWatch</string>
+    <string name="bottom_navigation_menu_top">Top</string>
+    <string name="bottom_navigation_menu_favorites">Favorites</string>
 </resources>
